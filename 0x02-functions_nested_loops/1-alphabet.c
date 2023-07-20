@@ -1,12 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry poitn
- *
- * Description: print alphabet usint _putchar
- *
- * Return: Always 0 (success)
- */
+ * print_alphabet -utilizes on the _putcahr function to print the alphabet a - z
+*/
 
 void print_alphabet(void)
 {
