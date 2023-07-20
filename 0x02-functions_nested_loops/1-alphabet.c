@@ -1,14 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry poitn
- *
- * Description: print alphabet usint _putchar
- *
- * Return: Always 0 (success)
- */
+ * print_alphabet - utilizes on the _putchar function to print alphbits
+*/
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 
 	char i = 'a';
@@ -20,3 +16,4 @@ void print_alphabet(void);
 	}
 		_putchar('\n');
 }
+
