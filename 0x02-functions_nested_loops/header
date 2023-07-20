@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "input file's name:"
+read var
+echo "#ifndef
+#define
+
+
+
+#endif" > ${var}
+
+vi ${var}
